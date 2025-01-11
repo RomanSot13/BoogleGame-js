@@ -36,3 +36,8 @@
         border-radius: 20px;
         background-color: #21aef5;
     }
+
+.result{
+  text-align: center;
+  font-size: 28px;
+}
