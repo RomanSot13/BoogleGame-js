@@ -1,0 +1,11 @@
+{
+  "name": "boggle",
+  "version": "1.0.0",
+  "description": "boggle-game",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "",
+  "license": "ISC"
+}
