@@ -58,3 +58,8 @@ function mixLetters() {
 Mix.addEventListener("click", () => {
     mixLetters();
 });
+
+async function checkWord(currentWord) {
+    
+}
+
